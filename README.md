@@ -11,23 +11,23 @@ Each solution focuses on:
 
 ## Topics Covered
 
-01 Learn the Basics
-02 Important Sorting Techniques
-03 Arrays (Easy → Medium → Hard)
-04 Binary Search (1D, 2D Arrays, Search Space)
-05 Strings
-06 Linked List (Singly, Doubly, Problems)
-07 Recursion (Pattern Based)
-08 Bit Manipulation
-09 Stacks and Queues
-10 Sliding Window & Two Pointer Problems
-11 Heap / Priority Queue
-12 Greedy Algorithms
-13 Binary Trees
-14 Binary Search Trees
-15 Graphs
-16 Dynamic Programming
-17 Tries
+- 01 Learn the Basics
+- 02 Important Sorting Techniques
+- 03 Arrays (Easy → Medium → Hard)
+- 04 Binary Search (1D, 2D Arrays, Search Space)
+- 05 Strings
+- 06 Linked List (Singly, Doubly, Problems)
+- 07 Recursion (Pattern Based)
+- 08 Bit Manipulation
+- 09 Stacks and Queues
+- 10 Sliding Window & Two Pointer Problems
+- 11 Heap / Priority Queue
+- 12 Greedy Algorithms
+- 13 Binary Trees
+- 14 Binary Search Trees
+- 15 Graphs
+- 16 Dynamic Programming
+- 17 Tries
 
 
 ## Language
